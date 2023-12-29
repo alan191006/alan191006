@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Huynh</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<h3 align="center">Data Scientist</h3>
 
 - 🔭 I’m currently working on [torch-activation](https://github.com/alan191006/torch_activation)
 
