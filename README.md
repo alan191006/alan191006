@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [resume](https://drive.google.com/drive/folders/1A6dnkn7wuBs7CVXrILJjEz3_Y-O86hCF?usp=sharing)
 
-- :rocket: Check out my newest project: [AI2Papers](https://github.com/alan191006/AI2Papers)
+- :rocket: Check out my newest project: [AI2Papers](https://alan191006.github.io/AI2Papers/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
